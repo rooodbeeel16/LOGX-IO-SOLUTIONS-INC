@@ -463,6 +463,9 @@ h6 {
 
   .mobile-nav-active .navmenu>ul {
     display: block;
+    transform: translateX(0);
+    visibility: visible;
+    opacity: 1;
   }
 }
 
